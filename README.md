@@ -3,6 +3,8 @@
 ## Supervised Learning
 ### Regression
 [Linear Regression](linear_regression.html)
+### Classification
+[Classification Tree]()
 
 ## Unsupervised Learning
 ## Reinforcement Learning
