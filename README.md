@@ -4,7 +4,7 @@
 ### Regression
 [Linear Regression](linear_regression.html)
 ### Classification
-[Classification Tree]()
+[Classification Tree](classification_tree.html)
 
 ## Unsupervised Learning
 ## Reinforcement Learning
