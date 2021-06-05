@@ -1,6 +1,6 @@
 # Types of Machine Learning
 
-[artificial neural network(ANN)](artificial_neural_network.html)
+[Artificial Neural Network (ANN)](artificial_neural_network.html)
 ## Supervised Learning
 ### Regression
 [Linear Regression](linear_regression.html)
